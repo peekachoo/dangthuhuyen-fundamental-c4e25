@@ -1,0 +1,9 @@
+1) A Boolean is a value which is either true or false.
+- 13 < 5
+- 13 == (17- 4)
+-"hello" == "hi"
+2) A flowchart is a chart shows a workflow (shows the steps and their order).
+3) Nested conditionals is conditional that includes another conditional.
+1	if 9 < x:
+2		if x < 100:
+3			print("x is a positive double digit.")
