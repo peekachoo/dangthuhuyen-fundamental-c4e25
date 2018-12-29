@@ -1,1 +1,0 @@
-print polygon(4, 100)
