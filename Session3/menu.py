@@ -11,6 +11,7 @@
 # print(items)
 
 items = ["Bun dau mam tom", "Pho", ]
+
 # print(items) # read
 # items.append("Banh my sot vang") # insert
 # print(items)
